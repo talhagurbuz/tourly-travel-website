@@ -1,0 +1,8 @@
+CSS
+pointer-events ?
+scroll-behavior ?
+.classname:is(:hover, :focus) ?
+object-fit ? 
+.gallery-item:nth-child(3){
+    grid-area: 1 / 2 / 3 / 3;
+} ?
